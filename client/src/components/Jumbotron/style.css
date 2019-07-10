@@ -1,0 +1,9 @@
+.jumbotron {
+  padding-top: 120px;
+  text-align: center;
+  height: 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}

@@ -1,0 +1,14 @@
+img {
+  margin: 20px;
+  width: 120px;
+  height: 180px;
+}
+
+h4 {
+  margin: 0;
+  display: inline-block;
+}
+.btn btn-primary m-1 {
+  display: inline-block;
+  justify-content: end;
+}
